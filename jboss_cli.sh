@@ -16,7 +16,7 @@ DEPLOYMENTS=$(/u01/app/liferay/liferay-dxp-digital-enterprise-7.0-sp8/wildfly-10
 ##jboss envs
 
 ##zabbix envs
-ZABBIX=pvzabbix01.cosmote.gr
+ZABBIX=pvzabbix01.****.gr
 HOST=$(hostname)
 ##zabbix envs
 
@@ -42,7 +42,7 @@ DEPLOYMENTS=$(/u01/app/liferay/liferay-dxp-digital-enterprise-7.0-sp8/wildfly-10
 ##jboss envs
 
 ##zabbix envs
-ZABBIX=pvzabbix01.cosmote.gr
+ZABBIX=pvzabbix01.*****.gr
 HOST=$(hostname)
 ##zabbix envs
 
